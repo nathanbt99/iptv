@@ -13,7 +13,11 @@ body:
     attributes:
       label: Broken Links
       description: Please specify the broken links from the playlist (one per line)
-      placeholder: 'https://lnc-kdfw-fox-aws.tubi.video/index.m3u8'
+      placeholder: 'https://tv.garden/ca/BBHJGmom0c53qu8'
+      'https://tv.garden/ca/ai9BqwKChqqER5'
+      'https://tv.garden/ca/wb9D3FYsHIR9Dd'
+      'https://tv.garden/ca/5ikJPlxT4rSlki'
+      'https://tv.garden/ca/WWeaDyjDDgcRDS'
     validations:
       required: true
 
